@@ -29,7 +29,7 @@ Embedded C implementation of a smartwatch running on a dsPIC33 microcontroller w
 
 ## Hardware Requirements
 
-- **Microcontroller:** dsPIC33 or similar
+- **Microcontroller:** PIC24
 - **Display:** OLED with oledC driver
 - **Sensor:** ADXL345 accelerometer via I2C (address `0x3A`)
 - **Inputs:** 2 push buttons (RA11, RA12), 2 LEDs
