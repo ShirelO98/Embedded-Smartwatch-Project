@@ -4,7 +4,6 @@
  * Description: A multifunctional smartwatch with pedometer, clock, and menu system.
  * Date: March 25, 2025
  * Author: Shirel Orkabi
- * Id: 209371533
  */
 
  #include <stdlib.h>
