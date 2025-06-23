@@ -5,7 +5,7 @@
 
 ## Overview
 
-Embedded C implementation of a smartwatch running on a dsPIC33 microcontroller with OLED display and ADXL345 accelerometer. The system supports real-time clock display, pedometer tracking, interactive menus, and user input via buttons and tilt.
+Embedded C implementation of a smartwatch running on a PIC24 microcontroller with OLED display and ADXL345 accelerometer. The system supports real-time clock display, pedometer tracking, interactive menus, and user input via buttons and tilt.
 
 ---
 
